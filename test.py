@@ -1,2 +1,3 @@
 print("kire bhai ki koros?")
-eta ekhon kaj korbe?
+
+print("Hello world")
