@@ -4,3 +4,4 @@ hello
 Hi
 kire
 ei
+fire chao
